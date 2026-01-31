@@ -3,3 +3,6 @@ sympy
 matplotlib
 numpy
 fpdf
+streamlit
+matplotlib
+numpy
